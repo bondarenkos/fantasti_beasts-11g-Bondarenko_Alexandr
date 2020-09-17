@@ -1,0 +1,79 @@
+body{
+    background-color: #111;
+}
+.main{
+    width: 1280px;
+}
+
+.pic01{
+    background-image: url("../images/back-img-01.jpg");
+    height: 792px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    border-radius: 25px 25px 0 0;
+    position: relative;
+}
+.txt01{
+    width: 100%;
+    position: absolute;
+    margin-top: 575px;
+    margin-left: 75px;
+    font-family: Verdana, serif;
+    font-size: 70px;
+    font-weight: bold;
+    color: #fefefe;
+    text-align: left;
+}
+.txt02{
+    line-height: 60px;
+    padding: 30px 75px;
+    font-family: Verdana, serif;
+    font-size: 30px;
+    font-weight: normal;
+    color: #fefefe;
+    text-align: left;
+    border-radius: 0 0 25px 25px;
+    background-color: #383838;
+}
+.txt03{
+    width: 100%;
+    line-height: 50px;
+    padding: 30px 5px 10px 30px;
+    font-family: Verdana, serif;
+    font-size: 25px;
+    font-weight: normal;
+    color: #fefefe;
+    text-align: left;
+}
+.link{
+    font-family: Verdana, serif;
+    font-size: 25px;
+    font-weight: normal;
+    color: #fefefe;
+}
+.container{
+    border-radius: 25px;
+    background-color: #383838;
+    width: 1280px;
+    padding-top: 35px;
+}
+.pic02 {
+    background-image: url("../images/oscar.png");
+    min-height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    border-radius: 25px 25px 0 0;
+    padding: 35px;
+}
+.txt04{
+    width: 100%;
+    padding: 30px 5px 10px 30px;
+    font-family: Verdana, serif;
+    font-size: 25px;
+    font-weight: normal;
+    color: #fefefe;
+    line-height: 10px;
+}
+
